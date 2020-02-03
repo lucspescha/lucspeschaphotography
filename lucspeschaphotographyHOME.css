@@ -1,9 +1,18 @@
 @charset "UTF-8";
 /* CSS Document */
 
-#einl {background-color: aqua;
-		font-family: montserrat;
+#einl {font-family: montserrat;
 		display: flex;
   		align-items: center;
   		justify-content: center;
+}
+
+body {background-image: url("DSCF4689.jpg");
+	background-size: cover;
+
+}
+
+
+img {opacity: 0.5;
+
 }
