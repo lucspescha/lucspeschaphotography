@@ -1,5 +1,9 @@
 @charset "UTF-8";
 /* CSS Document */
 
-#moin {background-color: aqua;
+#einl {background-color: aqua;
+		font-family: montserrat;
+		display: flex;
+  		align-items: center;
+  		justify-content: center;
 }
