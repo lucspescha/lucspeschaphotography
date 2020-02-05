@@ -16,3 +16,9 @@ body {background-image: url("pictures/crest.jpg");
 img {opacity: 0.5;
 
 }
+
+#info {font-family: montserrat;
+		display: flex;
+  		align-items: center;
+  		justify-content: center;
+}
