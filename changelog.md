@@ -12,7 +12,7 @@ These are all the changes, marked with Tags.\
 \
 \
 \{v0.1\}
-\
+
 - [view commit](http://github.com/<lucspescha>/<lucspeschaphotography>/commit/52459a282723a88743e02975643634741a18577d) &bull; Initial commit \
 - [view commit](http://github.com/<lucspescha>/<lucspeschaphotography>/commit/bb2691eea544a8cd850517bde30a6104925cdfb6) &bull; I created my own Website }
 
