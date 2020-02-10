@@ -1,24 +1,28 @@
 @charset "UTF-8";
 /* CSS Document */
-
-#einl {font-family: montserrat;
-		display: flex;
-  		align-items: center;
-  		justify-content: center;
-}
-
-body {background-image: url("pictures/crest.jpg");
+.comp {
+	
+	background-image: url("pictures/crest.jpg");
 	background-size: cover;
-
+}
+.einl {
+	font-family: montserrat;
+	margin-top: 300px;
+	margin-left: 60px;
+	margin-right: 700px;
+	background-color: white;
+	background-size: cover;
 }
 
-
-img {opacity: 0.5;
-
-}
 
 #info {font-family: montserrat;
 		display: flex;
   		align-items: center;
   		justify-content: center;
+}
+
+.next {
+	background-color: cadetblue;
+	width: auto;
+	height: auto;
 }
