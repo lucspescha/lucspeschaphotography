@@ -7,7 +7,7 @@ These are all the changes, marked with Tags.\
 
 \{v0.4 - v0.5\}
 
-- [view commit](http://github.com/<lucspescha>/<lucspeschaphotography>/commit/3c123402acb53eb1e8ab2934043051bfce512806) ; Did major changes to the CSS & HTML 
+- [view commit](http://github.com/<lucspescha>/<lucspeschaphotography>/commit/3c123402acb53eb1e8ab2934043051bfce512806) &bull; Did major changes to the CSS & HTML 
 - [view commit](http://github.com/<lucspescha>/<lucspeschaphotography>/commit/5a7ad88c9bac32969e2024bdf74ec12801b68c38) &bull; Navigation, new site "Portfolio", background images 
 - [view commit](http://github.com/<lucspescha>/<lucspeschaphotography>/commit/9560ea1be39060464816d68f7cd38c07c53ea36e) &bull; Update .DS_Store 
 
