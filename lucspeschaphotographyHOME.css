@@ -1,28 +1,44 @@
 @charset "UTF-8";
 /* CSS Document */
-.comp {
+
+body {
+	background-image: url("pictures/segnes.jpg");
+	background-size: cover;
+}
+
+#pone {
+	color: white;
+	font-family: "Helvetica", Light;
+	font-size: 40pt;
+	text-align: center;
+}
+
+#einl {
+	align-items: center;
+	justify-content: center;
+	margin-top: 400px;
 	
-	background-image: url("pictures/crest.jpg");
-	background-size: cover;
-}
-.einl {
-	font-family: montserrat;
-	margin-top: 300px;
-	margin-left: 60px;
-	margin-right: 700px;
-	background-color: white;
-	background-size: cover;
 }
 
-
-#info {font-family: montserrat;
-		display: flex;
-  		align-items: center;
-  		justify-content: center;
+.topnav {
+	overflow: hidden;
+	font-family: "Helvetica", Light;
 }
 
-.next {
-	background-color: cadetblue;
-	width: auto;
-	height: auto;
+.topnav a {
+		float: right;
+ 	 color: #f2f2f2;
+ 	 text-align: center;
+ 	 padding: 14px 16px;
+ 	 text-decoration: none;
+  	font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  color: white;
 }
