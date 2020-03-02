@@ -48,18 +48,17 @@
 }
 
 #ganz {
-	background-color: darkseagreen;
 	height: 700px;
 	padding: 30px;
 }
 
-#halb {
+.halb {
 	background-color: white;
 	height: 450px;
 	padding: 30px;
 }
 
-#vier {
+.vier {
 	background-color: black;
 	height: 390px;
 	width: 510px;
@@ -67,11 +66,12 @@
 	float: right;
 }
 
-#textinfo {
+.textinfo {
 	color: white;
+	font-family: "Helvetica", Light;
 }
 
-#bild1 {
+.bild1 {
 	
 	height: 390px;
 	width: 630px;
@@ -80,3 +80,4 @@
 	background-image: url("pictures/lof.jpg");
 	background-size: cover;
 }
+
