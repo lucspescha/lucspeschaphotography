@@ -46,3 +46,40 @@
 	background-size: cover;
 	margin: 0px;
 }
+
+#new {
+	height: 700px;
+	padding: 30px;
+}
+
+.halfnew {
+	background-color: white;
+	height: 450px;
+	padding: 30px;
+}
+
+.fourth {
+	background-color: black;
+	height: 390px;
+	width: 510px;
+	padding: 30px;
+	float: right;
+}
+
+.txtinfo {
+	color: white;
+	font-family: "Helvetica", Light;
+}
+
+.img1 {
+	
+	height: 390px;
+	width: 630px;
+	padding: 30px;
+	float: left;
+	background-image: url("pictures/lof.jpg");
+	background-size: cover;
+	
+}
+
+

@@ -4,6 +4,7 @@
 .topnav {
 	overflow: hidden;
 	font-family: "Helvetica", Light;
+	position: sticky;
 }
 
 .topnav a {
@@ -13,7 +14,10 @@
  	 padding: 14px 16px;
  	 text-decoration: none;
   	font-size: 17px;
+	
 }
+
+
 
 .topnav a:hover {
   background-color: #ddd;
@@ -61,10 +65,16 @@
 }
 
 #text {
-	background-color: black;
+	background-color: #216B71;
 	height: 390px;
 	width: 800px;
 	padding: 30px;
 	float: right;
+}
+
+#textinfo {
+	color: white;
+	font-family: "Helvetica";
+	line-height: 25px;
 }
 
