@@ -46,3 +46,25 @@
 	background-size: cover;
 	margin: 0px;
 }
+
+#infos {
+	
+	height: 700px;
+	padding: 30px;
+}
+
+#bildp {
+	height: 450px;
+	width: auto;
+	
+	float: left;
+}
+
+#text {
+	background-color: black;
+	height: 390px;
+	width: 800px;
+	padding: 30px;
+	float: right;
+}
+
