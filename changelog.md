@@ -6,6 +6,19 @@ These are all the changes, marked with Tags.
 
 
 
+\{v0.5 - v0.6\}
+
+- [view commit](http://github.com/<lucspescha>/<lucspeschaphotography>/commit/e02a70e0115bf2726a2a0cc56345922b47a5b3c4) &bull; v0.4-v0.5 
+- [view commit](http://github.com/<lucspescha>/<lucspeschaphotography>/commit/48046b65f10ef4f8942b582171c6f2842e05c693) &bull; Update changelog.md 
+- [view commit](http://github.com/<lucspescha>/<lucspeschaphotography>/commit/504e693336d7a09967674548978590a5947ece1a) &bull; Update changelog.md 
+- [view commit](http://github.com/<lucspescha>/<lucspeschaphotography>/commit/d0792b271dc5467502e1b07b056d56f73737aca9) &bull; Update changelog.md 
+- [view commit](http://github.com/<lucspescha>/<lucspeschaphotography>/commit/d96b2b5d8edc7337981beee307f83d781b1c53f1) &bull; Portfolio 
+- [view commit](http://github.com/<lucspescha>/<lucspeschaphotography>/commit/2d3298e24623580ad8ad6f17db720ba7d2e76a5f) &bull; Merge branch 'master' of https://github.com/lucspescha/lucspeschaphotography 
+- [view commit](http://github.com/<lucspescha>/<lucspeschaphotography>/commit/d68d8e2b704c168b4aa9020008d2ede1b0b21888) &bull; I created the new site "About Me" 
+- [view commit](http://github.com/<lucspescha>/<lucspeschaphotography>/commit/b32f770c8509ddeebab002b84e8b5a3aaee4914b) &bull; Update changelog.md 
+- [view commit](http://github.com/<lucspescha>/<lucspeschaphotography>/commit/cca7909537fa3a754bc968b94cfea352a99bd5d7) &bull; Update changelog.md 
+
+
 \{v0.4 - v0.5\}
 
 - [view commit](http://github.com/<lucspescha>/<lucspeschaphotography>/commit/3c123402acb53eb1e8ab2934043051bfce512806) &bull; Did major changes to the CSS & HTML 
