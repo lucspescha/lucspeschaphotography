@@ -1,6 +1,12 @@
 @charset "UTF-8";
 /* CSS Document */
 
+
+
+body { margin: 0px;
+
+}
+
 .topnav {
 	overflow: hidden;
 	font-family: "Helvetica", Light;
@@ -41,7 +47,7 @@
 }
 
 #backhome {
-	height: 900px;
+	height: 1000px;
 	background-image: url("pictures/segnes.jpg");
 	background-size: cover;
 	margin: 0px;

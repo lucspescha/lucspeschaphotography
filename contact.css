@@ -3,20 +3,23 @@
 body { margin: 0px;
 
 }
-
 .topnav {
 	overflow: hidden;
 	font-family: "Helvetica", Light;
+	position: sticky;
 }
 
 .topnav a {
 		float: right;
- 	 color: #f2f2f2;
+ 	 color: black;
  	 text-align: center;
  	 padding: 14px 16px;
  	 text-decoration: none;
   	font-size: 17px;
+	
 }
+
+
 
 .topnav a:hover {
   background-color: #ddd;
@@ -24,50 +27,55 @@ body { margin: 0px;
 }
 
 .topnav a.active {
-  color: white;
+  color: black;
 }
 
-#pone {
+
+
+#unt {
 	color: white;
 	font-family: "Helvetica", Light;
 	font-size: 40pt;
 	text-align: center;
 }
 
-#einl {
+#ueb {
 	align-items: center;
 	justify-content: center;
 	margin-top: 400px;
 	
 }
 
-#hinbild {
+#imgback {
 	height: 1000px;
-	background-image: url("pictures/lof.jpg");
+	background-image: url("pictures/DJI_0014.jpg");
 	background-size: cover;
 	margin: 0px;
 }
 
-#ganz {
+#infos {
+	
 	height: 700px;
-	padding-top: 30px;
-
 	
 }
 
 
 
-.bild1 {
-	
-	height: 1000px;
+#text {
+	background-color: #216B71;
+	height: 390px;
 	width: 100%;
 	
-	background-image: url("pictures/DJI_0011.jpg");
-	background-size: cover;
-	padding-left: 40px;
-	padding-right: 40px;
 	
+}
 
-	
+#textinfo {
+	color: white;
+	font-family: "Helvetica";
+	line-height: 25px;
+	padding-left: 30px;
+	padding-right: 30px;
+	margin-top: 0px;
+	padding-top: 30px;
 }
 
