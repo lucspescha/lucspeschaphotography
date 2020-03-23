@@ -3,6 +3,14 @@ changelog
 
 \
 These are all the changes, marked with Tags.
+\{v0.6 - v0.7\}
+
+- [view commit](http://github.com/<lucspescha>/<lucspeschaphotography>/commit/ead831b19806ae614afc073f0e7286b6f6645a2a) &bull; Major changes to the Portfolio site 
+- [view commit](http://github.com/<lucspescha>/<lucspeschaphotography>/commit/8a554dc955a8066e79e0556b29dd49a585a428f8) &bull; v0.6-v0.7 
+- [view commit](http://github.com/<lucspescha>/<lucspeschaphotography>/commit/c146259eb1124856423d64c387d9a7df5997c03d) &bull; Merge branch 'master' of https://github.com/lucspescha/lucspeschaphotography 
+- [view commit](http://github.com/<lucspescha>/<lucspeschaphotography>/commit/cdd3cc8cad4751643097d353764a4a3cda63d6f7) &bull; I finished most of the sites 
+
+
 
 \{v0.6 - v0.7\}
 
