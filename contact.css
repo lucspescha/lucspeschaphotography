@@ -10,7 +10,7 @@ body { margin: 0px;
 }
 
 .topnav a {
-		float: right;
+	float: right;
  	 color: black;
  	 text-align: center;
  	 padding: 14px 16px;
@@ -53,11 +53,7 @@ body { margin: 0px;
 	margin: 0px;
 }
 
-#infos {
-	
-	height: 700px;
-	
-}
+
 
 
 

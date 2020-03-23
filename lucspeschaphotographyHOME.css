@@ -53,15 +53,16 @@ body { margin: 0px;
 	margin: 0px;
 }
 
-#new {
-	height: 700px;
-	padding: 30px;
-}
+
+	
+
 
 .halfnew {
 	background-color: white;
-	height: 450px;
-	padding: 30px;
+	align-content: center;
+	text-align: center;
+	justify-content: center;
+	
 }
 
 .fourth {
