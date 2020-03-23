@@ -4,6 +4,14 @@ changelog
 \
 These are all the changes, marked with Tags.
 
+\{v0.6 - v0.7\}
+
+- [view commit](http://github.com/<lucspescha>/<lucspeschaphotography>/commit/b6b8156825547ce1635c59b85c072f441bd9e9f5) &bull; some changes 
+- [view commit](http://github.com/<lucspescha>/<lucspeschaphotography>/commit/6a1ae4053fe025bfcf17249f1315ac47b4a7cff0) &bull; Updated to v0.6 bzw. v0.5 
+- [view commit](http://github.com/<lucspescha>/<lucspeschaphotography>/commit/8b63381ed1066d8c985a55b6fc7bf0c8a10b5ec8) &bull; no major changes 
+- [view commit](http://github.com/<lucspescha>/<lucspeschaphotography>/commit/5919b8d800e6b0700b0fe3f00a7b491f564b5444) &bull; Merge branch 'master' of https://github.com/lucspescha/lucspeschaphotography
+
+
 
 
 \{v0.5 - v0.6\}
