@@ -4,6 +4,10 @@ changelog
 \
 These are all the changes, marked with Tags.
 
+\{v0.8 - v0.9\}
+
+
+
 \{v0.7 - v0.8\}
 
 - [view commit](http://github.com/<lucspescha>/<lucspeschaphotography>/commit/ead831b19806ae614afc073f0e7286b6f6645a2a) &bull; Major changes to the Portfolio site 
