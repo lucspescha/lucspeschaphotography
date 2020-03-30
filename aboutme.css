@@ -58,21 +58,20 @@ body { margin: 0px;
 #bildp {
 	height: 450px;
 	width: auto;
-	
+	padding-right: 20px;
 	float: left;
 }
 
-#text {
-	background-color: #216B71;
-	height: 390px;
-	width: 800px;
-	padding: 30px;
-	float: right;
-}
+
 
 #textinfo {
-	color: white;
+	color: black;
 	font-family: "Helvetica";
 	line-height: 25px;
+	width: 50%;
+	height:450px;
 }
 
+#newab {background-color: white;
+height: 150px;
+width: 100%}

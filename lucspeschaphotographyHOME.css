@@ -89,4 +89,19 @@ body { margin: 0px;
 	
 }
 
+#newab {background-color: white;
+height: 150px;
+width: 100%}
+
+#bild1 {background-image: url("pictures/myinsta.jpg");
+height: 1000px;
+background-size: cover;
+width: 100%;
+}
+
+#logo {    width: 100px;
+    border-top-width: 20px;
+    margin-top: 20px;
+	margin-left: 20px; }
+
 

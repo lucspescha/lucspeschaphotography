@@ -11,7 +11,10 @@
 	<div id="imgback">
 	
 		<div class="topnav">
-			
+			<img id="logo" src="pictures/SVG/Element 1.svg" style="    width: 170px;
+    border-top-width: 20px;
+    margin-top: 20px;
+    margin-left: 20px;">
 	
   				<a href="Portfolio.html">Portfolio</a>
  				<a href="prints.html">Prints</a>
@@ -36,10 +39,41 @@
 	
 	
 	<div id="text">
-		<p id="textinfo">Over the last few years, I've gathered a lot of images. About a year ago, i had the idea to sell prints. I have since sold over 10 prints to not only friends and family, but also to people i didn't know. All of my images are available as prints. just contact </p>
+		<p id="textinfo">Over the last few years, I've gathered a lot of images. About a year ago, i had the idea to sell prints. I have since sold over 10 prints to not only friends and family, but also to people i didn't know. All of my images are available as prints. 
+		
+		<br><br>Contact me here: <strong>luc.spescha@icloud.com</strong>
+		<br>
+		<br>
+		<br>Or with this form:
+		</p>
+		
 	</div>
 
 	
+</div>
+	
+<div class="container">
+  <form action="action_page.php">
+
+    <label for="fname" style="font-family: Helvetica">First Name</label>
+    <input type="text" id="fname" name="firstname" placeholder="Your name..">
+
+    <label for="lname" style="font-family: Helvetica">Last Name</label>
+    <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+
+    <label for="country" style="font-family: Helvetica">Country</label>
+    <select id="country" name="country">
+      <option value="australia" style="font-family: Helvetica">Switzerland</option>
+      <option value="canada" style="font-family: Helvetica">Germany</option>
+      <option value="usa" style="font-family: Helvetica">Norway</option>
+    </select>
+
+    <label for="subject" style="font-family: Helvetica">Subject</label>
+    <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
+
+    <input type="submit" value="Submit">
+
+  </form>
 </div>
 	
 	
