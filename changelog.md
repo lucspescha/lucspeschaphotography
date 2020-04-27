@@ -6,6 +6,12 @@ These are all the changes, marked with Tags.
 
 \{v0.8 - v0.9\}
 
+- [view commit](http://github.com/<lucspescha>/<lucspeschaphotography>/commit/74c9992cac03882b1e108beda29d445cf296e36c) &bull; Update changelog.md 
+- [view commit](http://github.com/<lucspescha>/<lucspeschaphotography>/commit/b4b3adaa4dc5769b18c5c5383c6e785f4bfbbdc8) &bull; Update changelog.md 
+- [view commit](http://github.com/<lucspescha>/<lucspeschaphotography>/commit/68d388ea6b8e5b15ccd4bdf080a277fc5cc09959) &bull; Update prints.html 
+- [view commit](http://github.com/<lucspescha>/<lucspeschaphotography>/commit/ddabb5971a0a8f58e2396a1f2a92e301c59827b6) &bull; filling the sites with content 
+- [view commit](http://github.com/<lucspescha>/<lucspeschaphotography>/commit/ec2230b0decb60b4c0b575adaba4eb057b287aec) &bull; Update changelog.md
+
 
 
 \{v0.7 - v0.8\}
