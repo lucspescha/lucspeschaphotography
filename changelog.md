@@ -12,7 +12,7 @@ These are all the changes, marked with Tags.
 
 
 
-\{v0.9 - v01\}
+\{v0.9 - v1\}
 
 - [view commit](http://github.com/<lucspescha>/<lucspeschaphotography>/commit/c0f822a06fb288f4a56b3a6505b8a08979570f40) &bull; Update changelog.md 
 - [view commit](http://github.com/<lucspescha>/<lucspeschaphotography>/commit/dcedc4fd013e163ec164d2c0095da72ae30a87d2) &bull; Photo Gallery 
