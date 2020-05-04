@@ -4,6 +4,14 @@ changelog
 \
 These are all the changes, marked with Tags.
 
+\{v1 - v1.1\}
+
+- [view commit](http://github.com/<lucspescha>/<lucspeschaphotography>/commit/66147b8863e15f96180e41920b2c43664731fbf1) &bull; Update changelog.md 
+- [view commit](http://github.com/<lucspescha>/<lucspeschaphotography>/commit/465d7c20a2ab705fb1d4b68d3f0ad7f18fb5c98c) &bull; Added a new slider to the "portfolio" site 
+- [view commit](http://github.com/<lucspescha>/<lucspeschaphotography>/commit/af50b650188b33e08067c38e961c6460d71a052f) &bull; Merge branch 'master' of https://github.com/lucspescha/lucspeschaphotography 
+
+
+
 \{v0.9 - v01\}
 
 - [view commit](http://github.com/<lucspescha>/<lucspeschaphotography>/commit/c0f822a06fb288f4a56b3a6505b8a08979570f40) &bull; Update changelog.md 
