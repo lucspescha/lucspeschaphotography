@@ -105,75 +105,127 @@ img {vertical-align: middle;}
 
 </div>
 	
-	</body>
+	
+	
+	<!-- Container for the image gallery -->
+<div class="container">
 
-<body>
+  <!-- Full-width images with number text -->
+  <div class="mySlides">
+    <div class="numbertext">1 / 8</div>
+      <img src="pictures/_DSF7303.jpg" style="width:100%">
+  </div>
 
-<h2>My Photos</h2>
+  <div class="mySlides">
+    <div class="numbertext">2 / 8</div>
+      <img src="pictures/_DSF6122.jpg" style="width:100%">
+  </div>
 
+  <div class="mySlides">
+    <div class="numbertext">3 / 8</div>
+      <img src="pictures/brücke-2.jpg" style="width:100%">
+  </div>
 
-<div class="slideshow-container">
+  <div class="mySlides">
+    <div class="numbertext">4 / 8</div>
+      <img src="pictures/crest.jpg" style="width:100%">
+  </div>
 
-<div class="mySlides fade">
-  <div class="numbertext">1 / 3</div>
-  <img src="pictures/brücke-2.jpg" style="width:100%">
-  <div class="text">Caption Text</div>
-</div>
+  <div class="mySlides">
+    <div class="numbertext">5 / 8</div>
+      <img src="pictures/DJI_0011.jpg" style="width:100%">
+  </div>
 
-<div class="mySlides fade">
-  <div class="numbertext">2 / 3</div>
-  <img src="pictures/_DSF7303.jpg" style="width:100%">
-  <div class="text">Caption Two</div>
-</div>
+  <div class="mySlides">
+    <div class="numbertext">6 / 8</div>
+      <img src="pictures/_DSF7410-Bearbeitet.jpg" style="width:100%">
+  </div>
+	
+	<div class="mySlides">
+    <div class="numbertext">7 / 8</div>
+      <img src="pictures/DJI_0003.jpg" style="width:100%">
+  </div>
+	
+		<div class="mySlides">
+    <div class="numbertext">8 / 8</div>
+      <img src="pictures/DJI_0073.jpg" style="width:100%">
+  </div>
 
-<div class="mySlides fade">
-  <div class="numbertext">3 / 3</div>
-  <img src="pictures/_DSF6122.jpg" style="width:100%">
-  <div class="text">Caption Three</div>
+  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+  <a class="next" onclick="plusSlides(1)">&#10095;</a>
+
+  <div class="caption-container">
+    <p id="caption"></p>
+  </div>
+
+  <div class="row">
+    <div class="column">
+      <img class="demo cursor" src="pictures/_DSF7303.jpg" style="width:100%" onclick="currentSlide(1)" alt="Lukmanierpass, Switzerland">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="pictures/_DSF6122.jpg" style="width:100%" onclick="currentSlide(2)" alt="Bargis, Switzerland">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="pictures/brücke-2.jpg" style="width:100%" onclick="currentSlide(3)" alt="Fredvang, Norway">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="pictures/crest.jpg" style="width:100%" onclick="currentSlide(4)" alt="Crestasee, Switzerland">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="pictures/DJI_0011.jpg" style="width:100%" onclick="currentSlide(5)" alt="Caumasee, Switzerland">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="pictures/_DSF7410-Bearbeitet.jpg" style="width:100%" onclick="currentSlide(6)" alt="Disentis, Switzerland">
+    </div>
+	 
+	   <div class="column">
+      <img class="demo cursor" src="pictures/DJI_0003.jpg" style="width:100%" onclick="currentSlide(7)" alt="Reine, Norway">
+    </div>
+	  
+	    <div class="column">
+      <img class="demo cursor" src="pictures/DJI_0073.jpg" style="width:100%" onclick="currentSlide(8)" alt="Reine, Norway">
+    </div>
+	  
+	  
+  </div>
 </div>
 	
-<div class="mySlides fade">
-  <div class="numbertext">3 / 3</div>
-  <img src="pictures/crest.jpg" style="width:100%">
-  <div class="text">Caption Three</div>
-</div>
 	
-<div class="mySlides fade">
-  <div class="numbertext">3 / 3</div>
-  <img src="pictures/DJI_0013-Pano.jpg" style="width:100%">
-  <div class="text">Caption Three</div>
-</div>
-
-</div>
-<br>
-
-<div style="text-align:center">
-  <span class="dot"></span> 
-  <span class="dot"></span> 
-  <span class="dot"></span> 
-</div>
-
 <script>
-var slideIndex = 0;
-showSlides();
+	var slideIndex = 1;
+showSlides(slideIndex);
 
-function showSlides() {
+function plusSlides(n) {
+  showSlides(slideIndex += n);
+}
+
+function currentSlide(n) {
+  showSlides(slideIndex = n);
+}
+
+function showSlides(n) {
   var i;
   var slides = document.getElementsByClassName("mySlides");
-  var dots = document.getElementsByClassName("dot");
+  var dots = document.getElementsByClassName("demo");
+  var captionText = document.getElementById("caption");
+  if (n > slides.length) {slideIndex = 1}
+  if (n < 1) {slideIndex = slides.length}
   for (i = 0; i < slides.length; i++) {
-    slides[i].style.display = "none";  
+    slides[i].style.display = "none";
   }
-  slideIndex++;
-  if (slideIndex > slides.length) {slideIndex = 1}    
   for (i = 0; i < dots.length; i++) {
     dots[i].className = dots[i].className.replace(" active", "");
   }
-  slides[slideIndex-1].style.display = "block";  
+  slides[slideIndex-1].style.display = "block";
   dots[slideIndex-1].className += " active";
-  setTimeout(showSlides, 2000); // Change image every 2 seconds
+  captionText.innerHTML = dots[slideIndex-1].alt;
 }
 </script>
+
+	
+
+
+
 	
 
 	
