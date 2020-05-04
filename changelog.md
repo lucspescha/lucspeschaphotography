@@ -4,6 +4,14 @@ changelog
 \
 These are all the changes, marked with Tags.
 
+\{v0.9 - v01\}
+
+- [view commit](http://github.com/<lucspescha>/<lucspeschaphotography>/commit/c0f822a06fb288f4a56b3a6505b8a08979570f40) &bull; Update changelog.md 
+- [view commit](http://github.com/<lucspescha>/<lucspeschaphotography>/commit/dcedc4fd013e163ec164d2c0095da72ae30a87d2) &bull; Photo Gallery 
+- [view commit](http://github.com/<lucspescha>/<lucspeschaphotography>/commit/8be59c685e464ca61dea591b3075e046e5a3ea3d) &bull; Update changelog.md 
+
+
+
 \{v0.8 - v0.9\}
 
 - [view commit](http://github.com/<lucspescha>/<lucspeschaphotography>/commit/74c9992cac03882b1e108beda29d445cf296e36c) &bull; Update changelog.md 
