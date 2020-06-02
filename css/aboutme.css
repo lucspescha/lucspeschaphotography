@@ -10,7 +10,7 @@ body { margin: 0px;
 }
 
 .topnav a {
-	float: right;
+		float: right;
  	 color: black;
  	 text-align: center;
  	 padding: 14px 16px;
@@ -46,32 +46,32 @@ body { margin: 0px;
 	
 }
 
-#imgback {
+#backimg {
 	height: 1000px;
-	background-image: url("pictures/DJI_0014.jpg");
+	background-image: url("../HTML/brücke-2.jpg");
 	background-size: cover;
 	margin: 0px;
 }
 
 
 
-
-
-#text {
-	background-color: #216B71;
-	height: 390px;
-	width: 100%;
-	
-	
+#bildp {
+	height: 450px;
+	width: auto;
+	padding-right: 20px;
+	float: left;
 }
+
+
 
 #textinfo {
-	color: white;
+	color: black;
 	font-family: "Helvetica";
 	line-height: 25px;
-	padding-left: 30px;
-	padding-right: 30px;
-	margin-top: 0px;
-	padding-top: 30px;
+	width: 50%;
+	height:450px;
 }
 
+#newab {background-color: white;
+height: 150px;
+width: 100%}

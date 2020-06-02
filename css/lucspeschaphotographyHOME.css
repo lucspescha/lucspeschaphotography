@@ -48,7 +48,7 @@ body { margin: 0px;
 
 #backhome {
 	height: 1000px;
-	background-image: url("pictures/segnes.jpg");
+	background-image: url("../HTML/segnes.jpg");
 	background-size: cover;
 	margin: 0px;
 }
@@ -93,7 +93,7 @@ body { margin: 0px;
 height: 150px;
 width: 100%}
 
-#bild1 {background-image: url("pictures/myinsta.jpg");
+#bild1 {background-image: url("../HTML/myinsta.jpg");
 height: 1000px;
 background-size: cover;
 width: 100%;

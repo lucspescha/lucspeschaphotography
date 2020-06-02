@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <title>contact</title>
-<link rel="stylesheet" href="prints.css">
+<link rel="stylesheet" href="../css/prints.css">
 </head>
 
 <body>
@@ -52,29 +52,44 @@
 	
 </div>
 	
-<div class="container">
-  <form action="action_page.php">
-
-    <label for="fname" style="font-family: Helvetica">First Name</label>
-    <input type="text" id="fname" name="firstname" placeholder="Your name..">
-
-    <label for="lname" style="font-family: Helvetica">Last Name</label>
-    <input type="text" id="lname" name="lastname" placeholder="Your last name..">
-
-    <label for="country" style="font-family: Helvetica">Country</label>
-    <select id="country" name="country">
-      <option value="australia" style="font-family: Helvetica">Switzerland</option>
-      <option value="canada" style="font-family: Helvetica">Germany</option>
-      <option value="usa" style="font-family: Helvetica">Norway</option>
-    </select>
-
-    <label for="subject" style="font-family: Helvetica">Subject</label>
-    <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
-
-    <input type="submit" value="Submit">
-
-  </form>
-</div>
+	<div style="margin-top:20px">
+				<form action="mailto:luc.spescha@icloud.com" method="post">
+					<fieldset>
+					<legend style="font-family: helvetica">contact me!</legend>
+					
+					
+					
+					
+					<p>
+						<label class="label" style="font-family: helvetica">Name</label>
+						<input type="text">
+					</p>
+					
+					<p>
+						<label class="label" style="font-family: helvetica">Last Name</label>
+						<input type="text">
+					</p>
+					
+					<p>
+						<label class="label" style="font-family: helvetica">E-Mail *</label>
+						<input type="email" required>
+					</p>
+					
+					<p>
+						<label class="label" style="font-family: helvetica">Which Print are you interested in?</label>
+						<textarea rows="8" required></textarea>
+						
+					</p>
+					
+					
+					<p>
+					
+					<input type="submit">
+					</p>
+					
+					</fieldset>
+				</form>
+	</div>
 	
 	
 </body>
